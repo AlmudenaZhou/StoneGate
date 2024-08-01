@@ -1,0 +1,23 @@
+{
+    "air": ["air","air",
+        {
+            "main": "None"
+        }, 10, 1],
+    "fire": ["fire","fire",
+        {
+            "main": "None"
+        }, 10, 1],
+    "water": ["water","water",
+        {
+            "main": "None"
+        }, 10, 1],
+    "light": ["light", "light", {
+            "main": "None"
+        }, 10, 1],
+    "darkness": ["darkness", "darkness", {
+            "main": "None"
+        }, 10, 1],
+    "attack": ["attack-1", "attack", {
+            "attack": 2
+        }, 10, 1]
+}
